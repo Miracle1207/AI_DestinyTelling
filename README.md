@@ -1,7 +1,7 @@
 # AI_DestinyTelling
 AI 算命
 
-下载exe文件：
+下载exe文件 Asset分支下：
 https://github.com/Miracle1207/AI_DestinyTelling/releases
 
 
